@@ -47,6 +47,15 @@ The objective of the **Auto Calibration** mode is to minimize operator intervent
 
 ---
 
+## Technical Documentation
+
+For a more detailed description of the system:
+
+- [Calibration Workflow](docs/workflow.md)
+- [System Architecture](docs/architecture.md)
+
+---
+
 ## System Architecture
 
 ```mermaid
