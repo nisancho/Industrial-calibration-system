@@ -16,7 +16,7 @@ The following demonstration shows the system operating in **Manual Calibration m
 
 **Manual mode is used in the recording to keep the demonstration short.** In **Auto Calibration mode**, the system automatically processes the complete sequence of flow rates from **1 to 10 ml/s** without further operator intervention.
 
-🎥 **[Watch the system demo](assets/Industrial_Calibration_System_Demo.mp4)**
+🎥 **[Watch the system demo](assets/system_demo.mp4)**
 
 During calibration, each flow rate is displayed with a status:
 
